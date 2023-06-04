@@ -1,10 +1,6 @@
-# -Finance-Tracker---Github-Copilot-Hackathon
-The Personal Finance Tracker is a web-based application that allows users to track their income and expenses. It provides an easy way to add, edit, and delete transactions, and displays the current balance.
-Sure! Here's a brief template for a README document for your personal finance tracker project on GitHub:
-
 # Personal Finance Tracker
-### Demo:
-https://wealthtrack.netlify.app/
+### Demo: https://wealthtrack.netlify.app/
+
 The Personal Finance Tracker is a web-based application that allows users to track their income and expenses. It provides an easy way to add, edit, and delete transactions, and displays the current balance.
 
 ## Features
@@ -13,8 +9,7 @@ The Personal Finance Tracker is a web-based application that allows users to tra
 - Edit existing transactions to update the amount or description.
 - Delete transactions that are no longer needed.
 - Automatically calculates and displays the current balance.
-- Transaction data is stored in session storage to persist data across page refreshes.
-
+- responsive user interface
 ## Technologies Used
 
 - HTML
